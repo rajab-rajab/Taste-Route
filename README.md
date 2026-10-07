@@ -2,6 +2,10 @@
 
 TasteRoute is a Qloo-powered cultural-routing agent. It turns a public cultural reference — an artist, film, book, or cuisine — into a city-aware outing route grounded in Qloo's taste graph.
 
+## Live demo
+
+Try the deployed application: [TasteRoute live demo](http://16.176.31.89:3000/)
+
 ## How the agent works
 
 1. **Resolve** a cultural reference with Qloo search.
