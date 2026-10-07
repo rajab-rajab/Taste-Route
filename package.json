@@ -1,0 +1,8 @@
+{
+  "name": "tasteroute",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node --env-file=.env server.mjs", "dev": "node --env-file=.env --watch server.mjs" },
+  "engines": { "node": ">=22.19.0" }
+}
